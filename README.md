@@ -19,8 +19,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+<img width="1408" height="768" alt="imagen_grupo" src="img/grupo.jpeg" />
+  <em>Figura 1. Fotografía del equipo 07</em>
 </p>
 
 ---
@@ -29,13 +29,14 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="img/alimer.jpeg" width="90"/> | **Venegas Cartolini, Alimer** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="img/lucero.jpeg" width="90"/> | **Tarazona Gonzales, Lucero Sofia** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="img/renato.jpeg" width="90"/> | **Alarcón Camones, Renato Angelo** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="img/sharlene.jpeg" width="90"/> | **Acrota Granados, Sharlene Angela** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="img/farid.jpeg" width="90"/> | **Valle Aguirre, Farid Alexandre** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+Este README presenta quiénes somos como equipo, qué nos impulsa y  en qué ODS  queremos centrar nuestro trabajo a lo largo del curso.
+
