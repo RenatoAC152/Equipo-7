@@ -19,7 +19,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_grupo" src="img/grupo.jpeg" />
+<img width="1408" height="768" alt="imagen_grupo" src="Recursos/Imagenes/grupo.jpeg" />
   <em>Figura 1. Fotografía del equipo 07</em>
 </p>
 
@@ -29,11 +29,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="img/alimer.jpeg" width="90"/> | **Venegas Cartolini, Alimer** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="img/lucero.jpeg" width="90"/> | **Tarazona Gonzales, Lucero Sofia** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="img/renato.jpeg" width="90"/> | **Alarcón Camones, Renato Angelo** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="img/sharlene.jpeg" width="90"/> | **Acrota Granados, Sharlene Angela** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="img/farid.jpeg" width="90"/> | **Valle Aguirre, Farid Alexandre** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imagenes/alimer.jpeg" width="90"/> | **Venegas Cartolini, Alimer** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="Recursos/Imagenes/lucero.jpeg" width="90"/> | **Tarazona Gonzales, Lucero Sofia** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="Recursos/Imagenes/renato.jpeg" width="90"/> | **Alarcón Camones, Renato Angelo** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="Recursos/Imagenes/sharlene.jpeg" width="90"/> | **Acrota Granados, Sharlene Angela** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="Recursos/Imagenes/farid.jpeg" width="90"/> | **Valle Aguirre, Farid Alexandre** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
