@@ -38,5 +38,5 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📌 Resumen Final  
-Este README presenta quiénes somos como equipo, qué nos impulsa y  en qué ODS  queremos centrar nuestro trabajo a lo largo del curso.
+Este README presenta quiénes somos como equipo, qué nos impulsa y  en qué ODS  queremos centrar nuestro trabajo a lo largo del curso en progreso para la ingeniería.
 
