@@ -30,7 +30,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="Recursos/Imagenes/alimer.jpeg" width="90"/> | **Venegas Cartolini, Alimer** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="Recursos/Imagenes/lucero.jpeg" width="90"/> | **Tarazona Gonzales, Lucero Sofia** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="Recursos/Imagenes/lucero.jpeg" width="90"/> | **Tarazona Gonzales, Lucero Sofia** | Responsable de investigación |Generación de conocimiento útil,innovación con próposito, sostenibilidad integral|
 | <img src="Recursos/Imagenes/renato.jpeg" width="90"/> | **Alarcón Camones, Renato Angelo** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="Recursos/Imagenes/sharlene.jpeg" width="90"/> | **Acrota Granados, Sharlene Angela** | Encargado/a de documentación | Comunicación científica, organización de la información,redacción técnica y síntesis de contenidos |
 | <img src="Recursos/Imagenes/farid.jpeg" width="90"/> | **Valle Aguirre, Farid Alexandre** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
