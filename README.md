@@ -26,9 +26,6 @@ Trabajaremos con los siguientes ODS:
 ### ODS 11 - Ciudades y comunidades sostenibles
 ![ODS 11](imagenes_ods/ods11.png)
 
-### ODS 12 - Producción y consumo responsables
-![ODS 12](imagenes_ods/ods12.jpg)
-
 ### ODS 13 - Acción por el clima
 ![ODS 12](imagenes_ods/ods13.jpg)
 
