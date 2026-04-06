@@ -12,7 +12,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 proyecto-ods/
 │── index.html
 │── style.css
-│── img/
+│── imagenes ods/
 │   ├── ods3.png
 │   ├── ods6.jpg
 │   ├── ods9.png
