@@ -15,19 +15,19 @@ proyecto-ods/
 Trabajaremos con los siguientes ODS:
 
 ### ODS 3 - Salud y Bienestar
-![ODS 3](imagenes ods/ods3.png)
+![ODS 3](imágenes ods/ods3.png)
 
 ### ODS 6 - Agua limpia y saneamiento
-![ODS 6](imagenes ods/ods6.jpg)
+![ODS 6](imágenes ods/ods6.jpg)
 
 ### ODS 9 - Industria, innovación e infraestructura
-![ODS 9](imagenes ods/ods9.png)
+![ODS 9](imágenes ods/ods9.png)
 
 ### ODS 11 - Ciudades y comunidades sostenibles
-![ODS 11](imagenes ods/ods11.png)
+![ODS 11](imágenes ods/ods11.png)
 
 ### ODS 12 - Producción y consumo responsables
-![ODS 12](imagenes ods/ods12.jpg)
+![ODS 12](imágenes ods/ods12.jpg)
 
 ---
 
