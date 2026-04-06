@@ -10,14 +10,24 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 proyecto-ods/
-│── index.html
-│── style.css
-│── imagenes ods/
-│   ├── ods3.png
-│   ├── ods6.jpg
-│   ├── ods9.png
-│   ├── ods11.png
-│   ├── ods13.jpg
+## 🌱 Objetivos de Desarrollo Sostenible (ODS)
+
+Trabajaremos con los siguientes ODS:
+
+### ODS 3 - Salud y Bienestar
+![ODS 3](imagenes ods/ods3.png)
+
+### ODS 6 - Agua limpia y saneamiento
+![ODS 6](imagenes ods/ods6.jpg)
+
+### ODS 9 - Industria, innovación e infraestructura
+![ODS 9](imagenes ods/ods9.png)
+
+### ODS 11 - Ciudades y comunidades sostenibles
+![ODS 11](imagenes ods/ods11.png)
+
+### ODS 12 - Producción y consumo responsables
+![ODS 12](imagenes ods/ods12.jpg)
 
 ---
 
