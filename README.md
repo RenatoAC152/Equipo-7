@@ -18,7 +18,7 @@ Trabajaremos con los siguientes ODS:
 <img src= "imagenes_ods/ods3.png" width="100">
 
 ### ODS 6 - Agua limpia y saneamiento
-<img src= "imagenes_ods/ods6.png" width="100">
+<img src= "imagenes_ods/ods6.jpg" width="100">
 
 ### ODS 9 - Industria, innovación e infraestructura
 <img src= "imagenes_ods/ods9.png" width="100">
@@ -27,7 +27,7 @@ Trabajaremos con los siguientes ODS:
 <img src= "imagenes_ods/ods11.png" width="100">
 
 ### ODS 13 - Acción por el clima
-<img src= "imagenes_ods/ods13.png" width="100">
+<img src= "imagenes_ods/ods13.jpg" width="100">
 
 ---
 
